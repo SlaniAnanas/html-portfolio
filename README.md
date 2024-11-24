@@ -1,2 +1,2 @@
 # html-portfolio
-About my projects,me and my contact
+About my starter projects,me and my contact
